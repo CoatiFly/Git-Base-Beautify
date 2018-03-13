@@ -1,13 +1,11 @@
 # Git-Base-Beautify
 
-git base 界面美化
-
-项目提供两种方法：
+此项目为 git base 界面颜色修改美化用途，参考了 https://github.com/mavnn/mintty-colors-solarized 项目。
 
 
 ## Git Base defaults
 
-在 Git Bash 里面输入
+Git Bash：
 
 	 cd ~
 	 vi .minttyrc
@@ -17,6 +15,8 @@ git base 界面美化
 	ForegroundColour= ...
 	BackgroundColour= ...
 	CursorColour= ...
+
+其他参数可参照项目.minttyrc文件内容。
 
 ## Replace config file
 
